@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591936837243",
+    "project_id": "yourcakeapp",
+    "storage_bucket": "yourcakeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591936837243:android:368b2b25b1658a653fb4de",
+        "android_client_info": {
+          "package_name": "hu.unideb.inf.yourcakeactualdraft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEREYcD83DbD_fZeQiYD-dhkzvqsr-BJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
